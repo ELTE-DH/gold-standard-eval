@@ -7,3 +7,4 @@ Ez a repo a gold standard korpusz projektünkhöz kapcsolódó kiértékelési �
 * **test_final.tsv**: Ellenőrzött, gold standard tesztkorpusz
 * **test_spacy_withids.tsv**: A tesztkorpusz HuSpaCy-vel elemzett változata
 * **test_ud_withids.tsv**: A tesztkorpusz UDv2 annotációra konvertált változata
+* **errortypes.xlsx**: Az első annotátor hibáinak típusbesorolása
