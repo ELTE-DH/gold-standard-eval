@@ -1,10 +1,10 @@
-# Morfológiai annotációt javító módszerek tesztelése gold standard korpuszon
+# Experiments on error detection in morphological annotation
 
-Ez a repo a gold standard korpusz projektünkhöz kapcsolódó kiértékelési és annotálásihiba-kereső kutatásának adatait tartalmazza.
+This repository contains the data used for our gold standard corpus project's evaluation and error detection experiments.
 
-* **all_annot.tsv**: Az összes eddig elkészült annotáció
-* **test_annot1.tsv**: A tesztkorpusz első annotátor által annotált változata
-* **test_final.tsv**: Ellenőrzött, gold standard tesztkorpusz
-* **test_spacy_withids.tsv**: A tesztkorpusz HuSpaCy-vel elemzett változata
-* **test_ud_withids.tsv**: A tesztkorpusz UDv2 annotációra konvertált változata
-* **errortypes.xlsx**: Az első annotátor hibáinak típusbesorolása
+* **all_annot.tsv**: All the annotated texts we have so far
+* **test_annot1.tsv**: The testcorpus annotated by the first annotators
+* **test_final.tsv**: The validated gold standard version of the testcorpus
+* **test_spacy_withids.tsv**: The testcorpus annotated by HuSpaCy
+* **test_ud_withids.tsv**: The testcorpus converted to the UDv2 tagset
+* **errortypes.xlsx**: Error types of the first annotators
